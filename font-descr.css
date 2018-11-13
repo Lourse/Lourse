@@ -1,0 +1,90 @@
+@font-face {
+    font-family:"LatoLight";
+    src: url("fonts/Lato-Light.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"LatoBlack";
+    src: url("fonts/Lato-Black.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"LatoHeavy";
+    src: url("fonts/Lato-Heavy.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face {
+    font-family:"LatoRegular";
+    src: url("fonts/Lato-Regular.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"LatoMedium";
+    src: url("fonts/Lato-Medium.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"LatoThin";
+    src: url("fonts/Lato-Thin.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"LatoItalic";
+    src: url("fonts/Lato-Italic.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"LatoBlackItalic";
+    src: url("fonts/Lato-BlackItalic.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"LatoHeavyItalic";
+    src: url("fonts/Lato-HeavyItalic.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"LatoBold";
+    src: url("fonts/Lato-Bold.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"FAb";
+    src: url("fonts/FA-br.ttf");
+    font-weight:normal;
+    font-style:normal;
+
+    
+@font-face {
+    font-family:"FA";
+    src: url("fonts/FA-sol.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:"FAr";
+    src: url("fonts/FA-reg.ttf");
+    font-weight:normal;
+    font-style:normal;
+}
+

@@ -1,0 +1,25 @@
+.divider {
+    border-bottom: 2px solid #ececec;
+    position: absolute;
+    width:100%;
+    left:0;
+}
+
+.fillcolor {
+    width:100%;
+    position: absolute;
+    background-color: #e8e8e8;
+    height: inherit;
+    z-index: 0;
+    left:0;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.clearfix::after {
+    content: '';
+    clear: both;
+    display: table;
+}
